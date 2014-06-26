@@ -8,3 +8,13 @@
 .nav li{
 	display: inline;
 }
+
+.tools{
+	background-color: #f7f7f7;
+}
+
+.tools h3{
+	font-size: 20px;
+	font-weight: bold;
+
+}
