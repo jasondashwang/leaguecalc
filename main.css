@@ -9,6 +9,10 @@
 	display: inline;
 }
 
+.jumbotron{
+	background-image: url(http://media.alienwarearena.com/media_photo_show/league_of_legends_i_am_adc_wallpaper_by_nibblesmekibbles-d64x2ne.jpg);
+}
+
 .tools{
 	background-color: #f7f7f7;
 }
@@ -16,5 +20,8 @@
 .tools h3{
 	font-size: 20px;
 	font-weight: bold;
+}
 
+.tools li{
+	display: block;
 }
