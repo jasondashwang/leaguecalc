@@ -10,7 +10,8 @@
 }
 
 .jumbotron{
-	background-image: url(http://media.alienwarearena.com/media_photo_show/league_of_legends_i_am_adc_wallpaper_by_nibblesmekibbles-d64x2ne.jpg) no-repeat scroll center;
+	background-image: url(http://media.alienwarearena.com/media_photo_show/league_of_legends_i_am_adc_wallpaper_by_nibblesmekibbles-d64x2ne.jpg);
+	background-size: 100%;
 }
 
 .jumbotron h1{
