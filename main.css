@@ -15,14 +15,19 @@
 	height: 450px;
 }
 
+.jumbotron .container{
+	position: relative;
+	top:100px;
+}
+
 .jumbotron h1{
-	color: white;
+	color: #fff;
 	font-size: 40px;
 	font-weight: bold;
 }
 
 .jumbotron p{
-	color:white;
+	color: #fff;
 	font-size: 20px;
 }
 
