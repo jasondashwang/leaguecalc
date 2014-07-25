@@ -23,11 +23,16 @@
 .jumbotron h1{
 	font-family: 'Shift', sans-serif;
 	color: #fff;
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: bold;
 }
 
 .jumbotron p{
+	color: #fff;
+	font-size: 30px;
+}
+
+.jumbotron li{
 	color: #fff;
 	font-size: 20px;
 }
