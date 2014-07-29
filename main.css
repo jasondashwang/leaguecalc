@@ -13,6 +13,7 @@
 	background-image: url('http://na.leagueoflegends.com/sites/default/files/upload/art/team_graves_2.jpg');
 	height: 650px;
 	background-attachment: fixed;
+	background-position: center;
 }
 
 .jumbotron .container{
